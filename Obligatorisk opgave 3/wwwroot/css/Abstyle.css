@@ -1,0 +1,26 @@
+﻿
+body {
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 100%;
+    background-color: #02343F;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: #F0EDCC;
+}
+
+a {
+    color: #E4DFA5;
+    text-decoration: underline;
+}
+
+    a:hover {
+        color: #B8AE38;
+    }
+
+
+
+    
